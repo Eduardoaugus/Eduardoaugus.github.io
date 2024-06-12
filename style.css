@@ -1,3 +1,2348 @@
-body {
-    background-color: #345667;
+
+
+
+
+
+
+    
+   
+
+
+    
+<div id="highlight-uidee7d" data-automation-test-id="HighlightComponent-highlight-uidee7d" data-componentName="highlight-uidee7d" class="card-img-overlay " clickgroup-telemetry-enabled>
+    
+    <div class="card-background" data-automation-test-id="HighlightCard-highlight-uidee7d">
+            
+                
+                    <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-MultiCanvas-Microsoft-Copilot-App-3screens:VP5-1920x600" media="(min-width: 1400px)" data-automation-test-id="EnableFetchPriorityImgXLarge-highlight-uidee7d"/>
+                    <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-MultiCanvas-Microsoft-Copilot-App-3screens:VP4-1399x600" media="(min-width: 1084px) and (max-width: 1399px)" data-automation-test-id="EnableFetchPriorityImgLarge-highlight-uidee7d"/>
+                    <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-MultiCanvas-Microsoft-Copilot-App-3screens:VP3-1083x600" media="(min-width: 860px) and (max-width: 1083px)" data-automation-test-id="EnableFetchPriorityImgMedium-highlight-uidee7d"/>
+                    <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-MultiCanvas-Microsoft-Copilot-App-3screens:VP2-859x540" media="(max-width: 859px)" data-automation-test-id="EnableFetchPriorityImgSmall-highlight-uidee7d"/>
+                
+                
+            
+            <picture>
+                <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-MultiCanvas-Microsoft-Copilot-App-3screens:VP5-1920x600" media="(min-width: 1400px)" data-automation-test-id="HighlightImgSrcXLarge-highlight-uidee7d"/>
+                <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-MultiCanvas-Microsoft-Copilot-App-3screens:VP4-1399x600" media="(min-width: 1084px)" data-automation-test-id="HighlightImgSrcLarge-highlight-uidee7d"/>
+                <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-MultiCanvas-Microsoft-Copilot-App-3screens:VP3-1083x600" media="(min-width: 860px)" data-automation-test-id="HighlightImgSrcMedium-highlight-uidee7d"/>
+                <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-MultiCanvas-Microsoft-Copilot-App-3screens:VP2-859x540" media="(min-width: 540px)" data-automation-test-id="HighlightImgSrcSmall-highlight-uidee7d"/>
+                <img id="img-highlight-uidee7d" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-MultiCanvas-Microsoft-Copilot-App-3screens:VP2-859x540" class="card-img w-100" data-automation-test-id="HighlightImage-highlight-uidee7d" alt="O aplicativo Microsoft Copilot está sendo utilizado para gerar imagens de um cão cantando, auxiliar na identificação de uma flor e ajudar a gerar um email para parabenizar um colega de trabalho por uma promoção."/>
+            </picture>
+    </div>
+    
+    
+        <div class="card-foreground    " data-automation-test-id="HighlightAlignment-highlight-uidee7d">
+            
+            <div class="container" data-automation-test-id="HighlightContainer-highlight-uidee7d">
+                
+                <div class="d-flex mt-md-n5 my-lg-5 " data-automation-test-id="HighlightFlexWrapper-highlight-uidee7d">
+                    
+                    <div class="w-100 w-lg-col-5 " data-automation-test-id="HighlightCardWrapper-highlight-uidee7d">
+                        
+                        <div class="card material-md-card px-g px-md-5 pt-4 pb-3 py-md-5 depth-lg-none bg-lg-transparent-text-dark " data-automation-test-id="HighlightCard-highlight-uidee7d">
+                            <div id="card-body-highlight-uidee7d" class="card-body " data-highlight-compname="Highlight" data-automation-test-id="HighlightCardBody-highlight-uidee7d">
+                                
+                                
+
+
+                                
+                                
+                                    <div style="color:">
+                                        
+<h1 data-automation-test-id="HighlightCardHeading-highlight-uidee7d" class=" h2    " id="HighlightCardHeading-highlight-uidee7d">
+    
+
+
+
+    Libere seu potencial com o Microsoft Copilot
+
+
+
+
+</h1>
+
+                                    </div>
+                                <div class="mb-4 " data-automation-test-id="HighlightDescription-highlight-uidee7d">
+                                    Trabalhe mais rápido e libere sua criatividade com o poder da IA em qualquer lugar.
+                                </div>
+                                
+
+
+
+
+
+
+                                
+
+
+<div class="link-group" data-automation-test-id="LinkGroupDiv-">
+
+
+    
+
+
+
+
+
+
+
+
+
+<a data-bi-cn="Faça download do Copilot" data-bi-ecn="Faça download do Copilot" data-bi-ct="button" data-bi-pa="body" class=" btn btn-primary   " data-target-uri="https://app.adjust.com/19ouznyv?fallback=https%3A%2F%2Fwww.microsoft.com%2Fcopilot-app%3Fform%3DMY02EA%26OCID%3DMY02EA&amp;redirect_macos=https%3A%2F%2Fwww.microsoft.com%2Fcopilot-app%3Fform%3DMY02EA%26OCID%3DMY02EA" data-bi-bhvr="0" data-bi-mto data-automation-test-id="button1-highlight-uidee7d" aria-label="Faça download do Copilot" target="_self" href="https://app.adjust.com/19ouznyv?fallback=https%3A%2F%2Fwww.microsoft.com%2Fcopilot-app%3Fform%3DMY02EA%26OCID%3DMY02EA&redirect_macos=https%3A%2F%2Fwww.microsoft.com%2Fcopilot-app%3Fform%3DMY02EA%26OCID%3DMY02EA">
+    Faça download do Copilot</a>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+</div>
+
+
+
+
+
+
+
+
+<script src="/etc.clientlibs/microsoft/components/content/highlight/v1/highlight/clientlibs/site.min.ACSHASH6599938a24acd3394e11658d8c59173a.js"></script>
+
+
+
+
+
+</div>
+</section>
+                        
+                                                          
+                    
+                        
+                            <section class="carousel-item depth-4 depth-md-none " data-automation-test-id="HighlightCarouselInnerSectionListItem1-" tabindex="0" itemTitle="Slide 2" aria-hidden="true" aria-label="2 de 2 " aria-roledescription="slide"><div class="highlight" data-component-id="a27bdc16afeeac2a37e8a078a9322fea">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="highlight-uid763a" data-automation-test-id="HighlightComponent-highlight-uid763a" data-componentName="highlight-uid763a" class="card-img-overlay " clickgroup-telemetry-enabled>
+    
+    <div class="card-background" data-automation-test-id="HighlightCard-highlight-uid763a">
+            
+                
+                    <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Slim-Multi-Canvas-M365-Anthem-Attract-Image-Create:VP5-1920x600" media="(min-width: 1400px)" data-automation-test-id="EnableFetchPriorityImgXLarge-highlight-uid763a"/>
+                    <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Slim-Multi-Canvas-M365-Anthem-Attract-Image-Create:VP4-1399x600" media="(min-width: 1084px) and (max-width: 1399px)" data-automation-test-id="EnableFetchPriorityImgLarge-highlight-uid763a"/>
+                    <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Slim-Multi-Canvas-M365-Anthem-Attract-Image-Create:VP3-1083x600" media="(min-width: 860px) and (max-width: 1083px)" data-automation-test-id="EnableFetchPriorityImgMedium-highlight-uid763a"/>
+                    <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Slim-Multi-Canvas-M365-Anthem-Attract-Image-Create:VP2-859x540" media="(max-width: 859px)" data-automation-test-id="EnableFetchPriorityImgSmall-highlight-uid763a"/>
+                
+                
+            
+            <picture>
+                <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Slim-Multi-Canvas-M365-Anthem-Attract-Image-Create:VP5-1920x600" media="(min-width: 1400px)" data-automation-test-id="HighlightImgSrcXLarge-highlight-uid763a"/>
+                <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Slim-Multi-Canvas-M365-Anthem-Attract-Image-Create:VP4-1399x600" media="(min-width: 1084px)" data-automation-test-id="HighlightImgSrcLarge-highlight-uid763a"/>
+                <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Slim-Multi-Canvas-M365-Anthem-Attract-Image-Create:VP3-1083x600" media="(min-width: 860px)" data-automation-test-id="HighlightImgSrcMedium-highlight-uid763a"/>
+                <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Slim-Multi-Canvas-M365-Anthem-Attract-Image-Create:VP2-859x540" media="(min-width: 540px)" data-automation-test-id="HighlightImgSrcSmall-highlight-uid763a"/>
+                <img id="img-highlight-uid763a" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Slim-Multi-Canvas-M365-Anthem-Attract-Image-Create:VP2-859x540" class="card-img w-100" data-automation-test-id="HighlightImage-highlight-uid763a" alt="Uma jovem trabalha em um Surface Laptop, enquanto os ícones do aplicativo Microsoft 365 giram ao redor da cabeça dela."/>
+            </picture>
+    </div>
+    
+    
+        <div class="card-foreground    " data-automation-test-id="HighlightAlignment-highlight-uid763a">
+            
+            <div class="container" data-automation-test-id="HighlightContainer-highlight-uid763a">
+                
+                <div class="d-flex mt-md-n5 my-lg-5 " data-automation-test-id="HighlightFlexWrapper-highlight-uid763a">
+                    
+                    <div class="w-100 w-lg-col-5 " data-automation-test-id="HighlightCardWrapper-highlight-uid763a">
+                        
+                        <div class="card material-md-card px-g px-md-5 pt-4 pb-3 py-md-5 depth-lg-none bg-lg-transparent-text-dark " data-automation-test-id="HighlightCard-highlight-uid763a">
+                            <div id="card-body-highlight-uid763a" class="card-body " data-highlight-compname="Highlight" data-automation-test-id="HighlightCardBody-highlight-uid763a">
+                                
+                                
+
+
+                                
+                                
+                                    <div style="color:">
+                                        
+<h2 data-automation-test-id="HighlightCardHeading-highlight-uid763a" id="HighlightCardHeading-highlight-uid763a">
+    
+
+
+
+    Maximize o dia a dia com o Microsoft 365
+
+
+
+
+</h2>
+
+                                    </div>
+                                <div class="mb-4 " data-automation-test-id="HighlightDescription-highlight-uid763a">
+                                    Obtenha proteção online, armazenamento seguro na nuvem e aplicativos inovadores desenvolvidos para atender às suas necessidades, tudo em um único plano.
+                                </div>
+                                
+
+
+
+
+
+
+                                
+
+
+<div class="link-group" data-automation-test-id="LinkGroupDiv-">
+
+
+    
+
+
+
+
+
+
+
+
+
+<a data-bi-cn="Para 1 pessoa" data-bi-ecn="Para 1 pessoa" data-bi-ct="button" data-bi-pa="body" class=" btn btn-primary   " data-target-uri="https://www.microsoft.com/pt-br/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf?icid=mscom_marcom_H2a_M365Personal" data-bi-bhvr="0" data-bi-mto data-automation-test-id="button1-highlight-uid763a" aria-label="Compre o Microsoft 365 Personal" target="_self" href="https://www.microsoft.com/pt-br/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf?icid=mscom_marcom_H2a_M365Personal">
+    Para 1 pessoa</a>
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+<a data-bi-cn="Para até 6 pessoas" data-bi-ecn="Para até 6 pessoas" data-bi-ct="cta" data-bi-pa="body" class=" cta   " data-target-uri="https://www.microsoft.com/pt-br/microsoft-365/p/microsoft-365-family/cfq7ttc0k5dm?icid=mscom_marcom_H2b_M365Family" data-bi-bhvr="0" data-bi-mto data-automation-test-id="cta2-highlight-uid763a" aria-label="Compre o Microsoft 365 Family" target="_self" href="https://www.microsoft.com/pt-br/microsoft-365/p/microsoft-365-family/cfq7ttc0k5dm?icid=mscom_marcom_H2b_M365Family">
+    
+    Para até 6 pessoas
+     <span class="glyph" aria-hidden="true"></span> 
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</section>
+                        
+                                                          
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+    
+        <a id="9d7440ad-4684-406c-8dbd-49472e014600" class="sr-only" data-automation-test-id="HighlightCarouselAnchorEndSkip-" tabindex="-1">End of apresentação de slides com anúncios e produtos em destaque: navegue usando os botões anterior e próximo : navegue usando as guias de slides section</a>
+    
+
+
+
+
+
+
+<script src="/etc.clientlibs/microsoft/components/content/highlightcarousel/v1/highlightcarousel/clientlibs/site.min.ACSHASHd8d0741f627b71607c02af76e14a4819.js"></script>
+
+
+
+
+
+
+
+
+
+
+<script src="/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-base.min.ACSHASHab8adc95b904264e414e11d7806f7386.js"></script>
+
+
+
+
+</div>
+
+
+</div>
+</div>
+<div class="responsivegrid mb-md-5 aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+
+<div class="layout-container responsivegrid aem-GridColumn aem-GridColumn--default--12" data-component-id="51e927945f39700e952adb9bd3dc97e7">
+
+
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  grid-image-layout-container-uid1aae default heading-bg-color-layout-container-uid1aae" data-automation-test-id="layout-container-uid1aae">
+  <style data-automation-test-id="headingColor-layout-container-uid1aae">
+            .heading-bg-color-layout-container-uid1aae{
+                 background-color:  !important;
+            }
+  </style>
+
+<div class="container" id="layout-container-uid1aae" data-componentName="layout-container-uid1aae">
+  
+  
+  <div class="link-list parent-list aem-GridColumn aem-GridColumn--default--12" data-component-id="719c9512848ea2270ac91e57592dc97e">
+
+
+
+
+
+
+
+
+
+
+
+<nav id="link-list-uidb35f" data-componentName="link-list-uidb35f" data-automation-test-id="LinkListNav-link-list-uidb35f" aria-label="Categorias de produto">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="text-center d-flex flex-wrap list-inline justify-content-center" data-automation-test-id="LinkList-link-list-uidb35f">
+
+
+
+
+<li class="font-weight-semibold mx-4 my-3 d-flex align-items-center card flex-grow-0  " data-automation-test-id="LinkListItem0-link-list-uidb35f" aria-expanded="false" clickgroup-telemetry-enabled data-close-label="Close dialog" aria-controls="listitempopoverxfaca32e52afc4cda9c1c71d39aac74c5" data-placement="bottom">
+    
+    
+        <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Link-List-Icons-Microsoft-365?wid=40&hei=40" data-automation-test-id="LinkListItemGlobalImgLazyLoad0-link-list-uidb35f" loading="lazy" width="40" height="40" alt class="img-fluid flex-shrink-0 mb-2" data-bi-cn="Escolha seu Microsoft 365" data-bi-ecn="Escolha seu Microsoft 365" data-bi-bhvr="0" data-bi-ct="CTA" data-bi-pa="Body" data-bi-compnm="Link List"/>
+    
+    
+    <a href="https://www.microsoft.com/pt-br/microsoft-365/buy/compare-all-microsoft-365-products?icid=MSCOM_QL_M365" data-automation-test-id="LinkListItemCTA0-link-list-uidb35f" aria-label="Escolha seu Microsoft 365" target="_self" data-bi-mto data-bi-cn="Escolha seu Microsoft 365" data-bi-ecn="Escolha seu Microsoft 365" data-bi-bhvr="0" data-bi-ct="Link" data-bi-pa="Body" data-bi-compnm="Link List" data-target-uri="https://www.microsoft.com/pt-br/microsoft-365/buy/compare-all-microsoft-365-products?icid=MSCOM_QL_M365">
+        Escolha seu Microsoft 365
+            <span class="glyph" aria-hidden="true" data-automation-test-id="LinkListItemCTAWithMwfupgrade0-link-list-uidb35f"></span>
+    </a>
+
+    
+</li>
+
+
+
+
+
+
+<li class="font-weight-semibold mx-4 my-3 d-flex align-items-center card flex-grow-0  " data-automation-test-id="LinkListItem1-link-list-uidb35f" aria-expanded="false" clickgroup-telemetry-enabled data-close-label="Close dialog" aria-controls="listitempopoverx98d8e080f58e476db7716bed65c9aa19" data-placement="bottom">
+    
+    
+        <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Link-List-Icons-Xbox-Games-Consoles?wid=40&hei=40" data-automation-test-id="LinkListItemGlobalImgLazyLoad1-link-list-uidb35f" loading="lazy" width="40" height="40" alt class="img-fluid flex-shrink-0 mb-2" data-bi-cn="Comprar o Xbox" data-bi-ecn="Comprar o Xbox" data-bi-bhvr="0" data-bi-ct="CTA" data-bi-pa="Body" data-bi-compnm="Link List"/>
+    
+    
+    <a href="https://www.microsoft.com/pt-br/store/b/xbox?icid=MSCOM_QL_Xbox" data-automation-test-id="LinkListItemCTA1-link-list-uidb35f" aria-label="Comprar o Xbox" target="_self" data-bi-mto data-bi-cn="Comprar o Xbox" data-bi-ecn="Comprar o Xbox" data-bi-bhvr="0" data-bi-ct="Link" data-bi-pa="Body" data-bi-compnm="Link List" data-target-uri="https://www.microsoft.com/pt-br/store/b/xbox?icid=MSCOM_QL_Xbox">
+        Comprar o Xbox
+            <span class="glyph" aria-hidden="true" data-automation-test-id="LinkListItemCTAWithMwfupgrade1-link-list-uidb35f"></span>
+    </a>
+
+    
+</li>
+
+
+
+
+
+
+<li class="font-weight-semibold mx-4 my-3 d-flex align-items-center card flex-grow-0  " data-automation-test-id="LinkListItem2-link-list-uidb35f" aria-expanded="false" clickgroup-telemetry-enabled data-close-label="Close dialog" aria-controls="listitempopoverx2c5cdf31d72d4c83bc09141775b7d38e" data-placement="bottom">
+    
+    
+        <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Link-List-Icons-Microsoft-365?wid=40&hei=40" data-automation-test-id="LinkListItemGlobalImgLazyLoad2-link-list-uidb35f" loading="lazy" width="40" height="40" alt class="img-fluid flex-shrink-0 mb-2" data-bi-cn="Adquira o Windows 11" data-bi-ecn="Adquira o Windows 11" data-bi-bhvr="0" data-bi-ct="CTA" data-bi-pa="Body" data-bi-compnm="Link List"/>
+    
+    
+    <a href="https://www.microsoft.com/pt-br/windows/get-windows-11?icid=MSCOM_QL_Windows" data-automation-test-id="LinkListItemCTA2-link-list-uidb35f" aria-label="Adquira o Windows 11" target="_self" data-bi-mto data-bi-cn="Adquira o Windows 11" data-bi-ecn="Adquira o Windows 11" data-bi-bhvr="0" data-bi-ct="Link" data-bi-pa="Body" data-bi-compnm="Link List" data-target-uri="https://www.microsoft.com/pt-br/windows/get-windows-11?icid=MSCOM_QL_Windows">
+        Adquira o Windows 11
+            <span class="glyph" aria-hidden="true" data-automation-test-id="LinkListItemCTAWithMwfupgrade2-link-list-uidb35f"></span>
+    </a>
+
+    
+</li>
+
+</ul>
+</nav></div>
+
+  
+</div>
+</div></div>
+
+
+</div>
+</div>
+<div class="responsivegrid mb-md-5 aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+
+<div class="layout-container responsivegrid aem-GridColumn aem-GridColumn--default--12" data-component-id="51e927945f39700e952adb9bd3dc97e7">
+
+
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  grid-image-layout-container-uid3c81  heading-bg-color-layout-container-uid3c81" data-automation-test-id="layout-container-uid3c81">
+  <style data-automation-test-id="headingColor-layout-container-uid3c81">
+            .heading-bg-color-layout-container-uid3c81{
+                 background-color:  !important;
+            }
+  </style>
+
+<div class="container" id="layout-container-uid3c81" data-componentName="layout-container-uid3c81">
+  
+  
+  <div class="content-card carouselbase carousel aem-GridColumn aem-GridColumn--default--12" data-component-id="e4caa97101f9f7cf8317c819b353e6ed">
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="/etc.clientlibs/microsoft/components/content/content-card/v1/content-card/clientlibs/site.min.ACSHASH92ba1cb9da3dd68605f38095fc34ba98.js" defer></script>
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/etc.clientlibs/microsoft/components/content/content-card/v1/content-card/clientlibs/site.min.ACSHASHc033b611d87d511847501ade7913431f.css" type="text/css">
+
+
+
+
+
+<section id="content-card-uid3c9f" data-componentName="content-card-uid3c9f">
+<div class="row row-cols-1   row-cols-sm-2 row-cols-lg-4">
+
+    
+        
+
+
+
+
+
+<link rel="stylesheet" href="/etc.clientlibs/microsoft/components/content/content-card-item/v3/content-card-item/clientlibs/site.min.ACSHASH7e98ce1d1fb3c40effe0a57430c1371c.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/microsoft/components/content/content-card-item/v1/content-card-item/clientlibs/site.min.ACSHASH5eb7940588edeff2b13a25b0bd1cb864.css" type="text/css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col 
+            mb-5 mb-lg-0
+            " clickgroup-telemetry-enabled>
+    <div class="card material-card h-100 " data-target-uri="https://www.xbox.com/pt-br/consoles/xbox-series-x?icid=mscom_marcom_CPH1a_XboxSeriesX" data-bi-ecN="Comprar Xbox Series X" data-bi-cT="Content Card" data-bi-pA="body" data-bi-ehN="Xbox Series X" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=515&amp;hei=293&amp;fit=crop" data-bi-bhvr="0" data-bi-hN="Xbox Series X" data-bi-compNm="Content card vertical 4 up - depth" data-bi-cN="Comprar Xbox Series X">
+        
+            
+
+<picture>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=380&amp;hei=213&amp;fit=crop" media="(min-width: 1400px)"/>
+    <source srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=297&amp;hei=167&amp;fit=crop" media="(min-width: 1084px)"/>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=517&amp;hei=293&amp;fit=crop" media="(min-width: 860px)"/>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=406&amp;hei=230&amp;fit=crop" media="(min-width: 540px)"/>
+    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=406&hei=230&fit=crop" loading="lazy" class="card-img" alt="Console Xbox Series X e um controle Xbox"/>
+</picture>
+
+
+
+            
+        
+            <!-- If any of the cards in a group contain a badge, all cards should include a card header -->
+            
+            <div class="card-body px-4 pt-4">
+                
+                    <h2 class="h3    ">
+                        Xbox Series X
+                    </h2>
+                
+                
+                    <p> O Xbox está ainda mais rápido e poderoso. </p>
+                
+            </div>
+            <div class="card-footer pt-3 px-4 pb-4">
+                
+
+
+<div class="link-group" data-automation-test-id="LinkGroupDiv-">
+
+
+    
+
+
+
+
+
+
+
+
+
+<a data-bi-cn="Comprar Xbox Series X" data-bi-ecn="Comprar Xbox Series X" data-bi-ct="button" data-bi-pa="body" class=" btn btn-primary   " data-target-uri="https://www.xbox.com/pt-br/consoles/xbox-series-x?icid=mscom_marcom_CPH1a_XboxSeriesX" data-bi-bhvr="0" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=515&amp;hei=293&amp;fit=crop" data-bi-mto data-automation-test-id="button1-" aria-label="Comprar Xbox Series X" data-bi-ehn="Xbox Series X" data-bi-hn="Xbox Series X" data-bi-compnm="Content card vertical 4 up - depth" target="_self" href="https://www.xbox.com/pt-br/consoles/xbox-series-x?icid=mscom_marcom_CPH1a_XboxSeriesX">
+    Comprar Xbox Series X</a>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+            </div>
+    </div>
+</div>
+
+
+
+
+
+
+<script type="text/javascript" src="/etc.clientlibs/microsoft/components/content/content-card-item/v3/content-card-item/clientlibs/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer></script><script type="text/javascript" src="/etc.clientlibs/microsoft/components/content/content-card-item/v1/content-card-item/clientlibs/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer></script>
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col 
+            mb-5 mb-lg-0
+            " clickgroup-telemetry-enabled>
+    <div class="card material-card h-100 " data-target-uri="https://www.xbox.com/pt-br/consoles/xbox-series-s?icid=mscom_marcom_CPH2a_XboxSeriesS" data-bi-ecN="Comprar Xbox Series S" data-bi-cT="Content Card" data-bi-pA="body" data-bi-ehN="Xbox Series S" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSS-CP-Xbox-Series-S-Evergreen?wid=515&amp;hei=293&amp;fit=crop" data-bi-bhvr="0" data-bi-hN="Xbox Series S" data-bi-compNm="Content card vertical 4 up - depth" data-bi-cN="Comprar Xbox Series S">
+        
+            
+
+<picture>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSS-CP-Xbox-Series-S-Evergreen?wid=380&amp;hei=213&amp;fit=crop" media="(min-width: 1400px)"/>
+    <source srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSS-CP-Xbox-Series-S-Evergreen?wid=297&amp;hei=167&amp;fit=crop" media="(min-width: 1084px)"/>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSS-CP-Xbox-Series-S-Evergreen?wid=517&amp;hei=293&amp;fit=crop" media="(min-width: 860px)"/>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSS-CP-Xbox-Series-S-Evergreen?wid=406&amp;hei=230&amp;fit=crop" media="(min-width: 540px)"/>
+    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSS-CP-Xbox-Series-S-Evergreen?wid=406&hei=230&fit=crop" loading="lazy" class="card-img" alt="Console Xbox Series S e um controle Xbox"/>
+</picture>
+
+
+
+            
+        
+            <!-- If any of the cards in a group contain a badge, all cards should include a card header -->
+            
+            <div class="card-body px-4 pt-4">
+                
+                    <h2 class="h3    ">
+                        Xbox Series S
+                    </h2>
+                
+                
+                    <p> Desempenho de última geração no menor de todos os Xbox. </p>
+                
+            </div>
+            <div class="card-footer pt-3 px-4 pb-4">
+                
+
+
+<div class="link-group" data-automation-test-id="LinkGroupDiv-">
+
+
+    
+
+
+
+
+
+
+
+
+
+<a data-bi-cn="Comprar Xbox Series S" data-bi-ecn="Comprar Xbox Series S" data-bi-ct="button" data-bi-pa="body" class=" btn btn-primary   " data-target-uri="https://www.xbox.com/pt-br/consoles/xbox-series-s?icid=mscom_marcom_CPH2a_XboxSeriesS" data-bi-bhvr="0" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSS-CP-Xbox-Series-S-Evergreen?wid=515&amp;hei=293&amp;fit=crop" data-bi-mto data-automation-test-id="button1-" aria-label="Comprar Xbox Series S" data-bi-ehn="Xbox Series S" data-bi-hn="Xbox Series S" data-bi-compnm="Content card vertical 4 up - depth" target="_self" href="https://www.xbox.com/pt-br/consoles/xbox-series-s?icid=mscom_marcom_CPH2a_XboxSeriesS">
+    Comprar Xbox Series S</a>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+            </div>
+    </div>
+</div>
+
+
+
+
+
+
+<script type="text/javascript" src="/etc.clientlibs/microsoft/components/content/content-card-item/v3/content-card-item/clientlibs/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer></script><script type="text/javascript" src="/etc.clientlibs/microsoft/components/content/content-card-item/v1/content-card-item/clientlibs/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer></script>
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col 
+            
+            mb-5 mb-sm-0" clickgroup-telemetry-enabled>
+    <div class="card material-card h-100 " data-target-uri="https://www.microsoft.com/pt-br/p/xbox-game-pass-ultimate/cfq7ttc0khs0?icid=mscom_marcom_CPH3a_GamePassUltimate" data-bi-ecN="Participe agora" data-bi-cT="Content Card" data-bi-pA="body" data-bi-ehN="Xbox Game Pass Ultimate" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Game-Pass-Ultimate?wid=515&amp;hei=293&amp;fit=crop" data-bi-bhvr="0" data-bi-hN="Xbox Game Pass Ultimate" data-bi-compNm="Content card vertical 4 up - depth" data-bi-cN="Participe agora">
+        
+            
+
+<picture>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Game-Pass-Ultimate?wid=380&amp;hei=213&amp;fit=crop" media="(min-width: 1400px)"/>
+    <source srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Game-Pass-Ultimate?wid=297&amp;hei=167&amp;fit=crop" media="(min-width: 1084px)"/>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Game-Pass-Ultimate?wid=517&amp;hei=293&amp;fit=crop" media="(min-width: 860px)"/>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Game-Pass-Ultimate?wid=406&amp;hei=230&amp;fit=crop" media="(min-width: 540px)"/>
+    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Game-Pass-Ultimate?wid=406&hei=230&fit=crop" loading="lazy" class="card-img" alt="Uma grande variedade de jogos disponíveis no Game Pass"/>
+</picture>
+
+
+
+            
+        
+            <!-- If any of the cards in a group contain a badge, all cards should include a card header -->
+            
+            <div class="card-body px-4 pt-4">
+                
+                    <h2 class="h3    ">
+                        Xbox Game Pass Ultimate
+                    </h2>
+                
+                
+                    <p> Jogue novos jogos desde o primeiro dia. Além disso, aproveite centenas de jogos de alta qualidade com amigos no console e no PC. </p>
+                
+            </div>
+            <div class="card-footer pt-3 px-4 pb-4">
+                
+
+
+<div class="link-group" data-automation-test-id="LinkGroupDiv-">
+
+
+    
+
+
+
+
+
+
+
+
+
+<a data-bi-cn="Participe agora" data-bi-ecn="Participe agora" data-bi-ct="button" data-bi-pa="body" class=" btn btn-primary   " data-target-uri="https://www.microsoft.com/pt-br/p/xbox-game-pass-ultimate/cfq7ttc0khs0?icid=mscom_marcom_CPH3a_GamePassUltimate" data-bi-bhvr="0" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Game-Pass-Ultimate?wid=515&amp;hei=293&amp;fit=crop" data-bi-mto data-automation-test-id="button1-" aria-label="Assine o Xbox Game Pass Ultimate" data-bi-ehn="Xbox Game Pass Ultimate" data-bi-hn="Xbox Game Pass Ultimate" data-bi-compnm="Content card vertical 4 up - depth" target="_self" href="https://www.microsoft.com/pt-br/p/xbox-game-pass-ultimate/cfq7ttc0khs0?icid=mscom_marcom_CPH3a_GamePassUltimate">
+    Participe agora</a>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+            </div>
+    </div>
+</div>
+
+
+
+
+
+
+<script type="text/javascript" src="/etc.clientlibs/microsoft/components/content/content-card-item/v3/content-card-item/clientlibs/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer></script><script type="text/javascript" src="/etc.clientlibs/microsoft/components/content/content-card-item/v1/content-card-item/clientlibs/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer></script>
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col 
+            
+            " clickgroup-telemetry-enabled>
+    <div class="card material-card h-100 " data-target-uri="https://www.microsoft.com/pt-br/windows/windows-11?icid=mscom_marcom_CPH4a_Win11PChlth#pchealthcheck" data-bi-ecN="Veja se o seu PC está pronto" data-bi-cT="Content Card" data-bi-pA="body" data-bi-ehN="Projetado para a vida hoje e amanhã" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-CP-Windows11-GlobalLaunch?wid=515&amp;hei=293&amp;fit=crop" data-bi-bhvr="0" data-bi-hN="Projetado para a vida hoje e amanhã" data-bi-compNm="Content card vertical 4 up - depth" data-bi-cN="Veja se o seu PC está pronto">
+        
+            
+
+<picture>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-CP-Windows11-GlobalLaunch?wid=380&amp;hei=213&amp;fit=crop" media="(min-width: 1400px)"/>
+    <source srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-CP-Windows11-GlobalLaunch?wid=297&amp;hei=167&amp;fit=crop" media="(min-width: 1084px)"/>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-CP-Windows11-GlobalLaunch?wid=517&amp;hei=293&amp;fit=crop" media="(min-width: 860px)"/>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-CP-Windows11-GlobalLaunch?wid=406&amp;hei=230&amp;fit=crop" media="(min-width: 540px)"/>
+    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-CP-Windows11-GlobalLaunch?wid=406&hei=230&fit=crop" loading="lazy" class="card-img" alt="Windows 11 em um laptop."/>
+</picture>
+
+
+
+            
+        
+            <!-- If any of the cards in a group contain a badge, all cards should include a card header -->
+            
+            <div class="card-body px-4 pt-4">
+                
+                    <h2 class="h3    ">
+                        Projetado para a vida hoje e amanhã
+                    </h2>
+                
+                
+                    <p> A próxima geração de jogos. Seus objetivos. Amigos e família. O Windows 11 foi feito para aproximá-lo de tudo o que você mais gosta. </p>
+                
+            </div>
+            <div class="card-footer pt-3 px-4 pb-4">
+                
+
+
+<div class="link-group" data-automation-test-id="LinkGroupDiv-">
+
+
+    
+
+
+
+
+
+
+
+
+
+<a data-bi-cn="Veja se o seu PC está pronto" data-bi-ecn="Veja se o seu PC está pronto" data-bi-ct="button" data-bi-pa="body" class=" btn btn-primary   " data-target-uri="https://www.microsoft.com/pt-br/windows/windows-11?icid=mscom_marcom_CPH4a_Win11PChlth#pchealthcheck" data-bi-bhvr="0" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-CP-Windows11-GlobalLaunch?wid=515&amp;hei=293&amp;fit=crop" data-bi-mto data-automation-test-id="button1-" aria-label="Veja se o seu PC está pronto" data-bi-ehn="Projetado para a vida hoje e amanhã" data-bi-hn="Projetado para a vida hoje e amanhã" data-bi-compnm="Content card vertical 4 up - depth" target="_self" href="https://www.microsoft.com/pt-br/windows/windows-11?icid=mscom_marcom_CPH4a_Win11PChlth#pchealthcheck">
+    Veja se o seu PC está pronto</a>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+            </div>
+    </div>
+</div>
+
+
+
+
+
+
+<script type="text/javascript" src="/etc.clientlibs/microsoft/components/content/content-card-item/v3/content-card-item/clientlibs/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer></script><script type="text/javascript" src="/etc.clientlibs/microsoft/components/content/content-card-item/v1/content-card-item/clientlibs/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer></script>
+
+
+
+
+
+
+    
+    
+
+</div>
+
+</section>
+
+
+
+</div>
+
+  
+</div>
+</div></div>
+
+
+</div>
+</div>
+<div class="responsivegrid mt-5 mb-md-5 aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+
+<div class="layout-container responsivegrid aem-GridColumn aem-GridColumn--default--12" data-component-id="51e927945f39700e952adb9bd3dc97e7">
+
+
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  grid-image-layout-container-uiddee7  heading-bg-color-layout-container-uiddee7" data-automation-test-id="layout-container-uiddee7">
+  <style data-automation-test-id="headingColor-layout-container-uiddee7">
+            .heading-bg-color-layout-container-uiddee7{
+                 background-color:  !important;
+            }
+  </style>
+
+<div class="container" id="layout-container-uiddee7" data-componentName="layout-container-uiddee7">
+  
+  
+  <div class="highlight aem-GridColumn aem-GridColumn--default--12" data-component-id="a27bdc16afeeac2a37e8a078a9322fea">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="highlight-uid1450" data-automation-test-id="HighlightComponent-highlight-uid1450" data-componentName="highlight-uid1450" class="card-img-overlay " clickgroup-telemetry-enabled>
+    
+    <div class="card-background" data-automation-test-id="HighlightCard-highlight-uid1450">
+            
+                
+                    <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-MSFT-hero-Edge:VP5-1596x600" media="(min-width: 1400px)" data-automation-test-id="EnableFetchPriorityImgXLarge-highlight-uid1450"/>
+                    <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-MSFT-hero-Edge:VP4-1260x600" media="(min-width: 1084px) and (max-width: 1399px)" data-automation-test-id="EnableFetchPriorityImgLarge-highlight-uid1450"/>
+                    <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-MSFT-hero-Edge:VP3-1083x600" media="(min-width: 860px) and (max-width: 1083px)" data-automation-test-id="EnableFetchPriorityImgMedium-highlight-uid1450"/>
+                    <link rel="preload" fetchpriority="high" as="image" imagesrcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-MSFT-hero-Edge:VP2-859x540" media="(max-width: 859px)" data-automation-test-id="EnableFetchPriorityImgSmall-highlight-uid1450"/>
+                
+                
+            
+            <picture>
+                <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-MSFT-hero-Edge:VP5-1596x600" media="(min-width: 1400px)" data-automation-test-id="HighlightImgSrcXLarge-highlight-uid1450"/>
+                <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-MSFT-hero-Edge:VP4-1260x600" media="(min-width: 1084px)" data-automation-test-id="HighlightImgSrcLarge-highlight-uid1450"/>
+                <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-MSFT-hero-Edge:VP3-1083x600" media="(min-width: 860px)" data-automation-test-id="HighlightImgSrcMedium-highlight-uid1450"/>
+                <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-MSFT-hero-Edge:VP2-859x540" media="(min-width: 540px)" data-automation-test-id="HighlightImgSrcSmall-highlight-uid1450"/>
+                <img id="img-highlight-uid1450" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-MSFT-hero-Edge:VP2-859x540" class="card-img w-100" data-automation-test-id="HighlightImage-highlight-uid1450" alt="Uma paisagem com o logotipo do Microsoft Edge pairando sobre a água."/>
+            </picture>
+    </div>
+    
+    
+        <div class="card-foreground    " data-automation-test-id="HighlightAlignment-highlight-uid1450">
+            
+            <div class="container" data-automation-test-id="HighlightContainer-highlight-uid1450">
+                
+                <div class="d-flex mt-md-n5 my-lg-5 " data-automation-test-id="HighlightFlexWrapper-highlight-uid1450">
+                    
+                    <div class="w-100 w-lg-col-4 " data-automation-test-id="HighlightCardWrapper-highlight-uid1450">
+                        
+                        <div class="card material-md-card py-5 px-md-5  " data-automation-test-id="HighlightCard-highlight-uid1450">
+                            <div id="card-body-highlight-uid1450" class="card-body " data-highlight-compname="Highlight" data-automation-test-id="HighlightCardBody-highlight-uid1450">
+                                
+                                
+
+
+                                
+                                
+                                    <div style="color:">
+                                        
+<h2 data-automation-test-id="HighlightCardHeading-highlight-uid1450" id="HighlightCardHeading-highlight-uid1450">
+    
+
+
+
+    Microsoft Edge
+
+
+
+
+</h2>
+
+                                    </div>
+                                <div class="mb-4 " data-automation-test-id="HighlightDescription-highlight-uid1450">
+                                    Desempenho excepcional com mais privacidade, mais velocidade e mais qualidade durante a navegação
+                                </div>
+                                
+
+
+
+
+
+
+                                
+
+
+<div class="link-group" data-automation-test-id="LinkGroupDiv-">
+
+
+    
+
+
+
+
+
+
+
+
+
+<a data-bi-cn="Baixe agora" data-bi-ecn="Baixe agora" data-bi-ct="button" data-bi-pa="body" class=" btn btn-primary   " data-target-uri="https://www.microsoft.com/pt-br/edge?form=MI13F3&amp;OCID=MI13F3" data-bi-bhvr="0" data-bi-mto data-automation-test-id="button1-highlight-uid1450" aria-label="Baixe o novo Microsoft Edge" target="_self" href="https://www.microsoft.com/pt-br/edge?form=MI13F3&OCID=MI13F3">
+    Baixe agora</a>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+  
+</div>
+</div></div>
+
+
+</div>
+</div>
+<div class="responsivegrid mt-5 mb-5 aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+
+<div class="layout-container responsivegrid aem-GridColumn aem-GridColumn--default--12" data-component-id="51e927945f39700e952adb9bd3dc97e7">
+
+
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  grid-image-layout-container-uid9df9  heading-bg-color-layout-container-uid9df9" data-automation-test-id="layout-container-uid9df9">
+  <style data-automation-test-id="headingColor-layout-container-uid9df9">
+            .heading-bg-color-layout-container-uid9df9{
+                 background-color:  !important;
+            }
+  </style>
+
+<div class="container" id="layout-container-uid9df9" data-componentName="layout-container-uid9df9">
+  
+  
+  <div class="heading aem-GridColumn aem-GridColumn--default--12" data-component-id="6b880e252846ae03b532f40bd58c2fae">
+
+<h2 data-automation-test-id="Heading-heading-uida84f">Para negócios</h2>
+
+
+
+</div>
+<div class="content-card carouselbase carousel aem-GridColumn aem-GridColumn--default--12" data-component-id="e4caa97101f9f7cf8317c819b353e6ed">
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="/etc.clientlibs/microsoft/components/content/content-card/v1/content-card/clientlibs/site.min.ACSHASH92ba1cb9da3dd68605f38095fc34ba98.js" defer></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="content-card-uiddea9" data-componentName="content-card-uiddea9">
+<div class="row row-cols-1   row-cols-sm-2 row-cols-lg-4">
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col 
+            mb-5 mb-lg-0
+            " clickgroup-telemetry-enabled>
+    <div class="card material-card h-100 " data-target-uri="https://www.microsoft.com/pt-br/microsoft-teams/small-medium-business?icid=mscom_marcom_CPW1a_TeamsForBusiness" data-bi-ecN="Veja o melhor plano" data-bi-cT="Content Card" data-bi-pA="body" data-bi-ehN="Microsoft Teams" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-Teams-Commercial-Meeting?wid=515&amp;hei=293&amp;fit=crop" data-bi-bhvr="0" data-bi-hN="Microsoft Teams" data-bi-compNm="Content card vertical 4 up - depth" data-bi-cN="Veja o melhor plano">
+        
+            
+
+<picture>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-Teams-Commercial-Meeting?wid=380&amp;hei=213&amp;fit=crop" media="(min-width: 1400px)"/>
+    <source srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-Teams-Commercial-Meeting?wid=297&amp;hei=167&amp;fit=crop" media="(min-width: 1084px)"/>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-Teams-Commercial-Meeting?wid=517&amp;hei=293&amp;fit=crop" media="(min-width: 860px)"/>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-Teams-Commercial-Meeting?wid=406&amp;hei=230&amp;fit=crop" media="(min-width: 540px)"/>
+    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-Teams-Commercial-Meeting?wid=406&hei=230&fit=crop" loading="lazy" class="card-img" alt="Uma chamada de vídeo do Microsoft Teams."/>
+</picture>
+
+
+
+            
+        
+            <!-- If any of the cards in a group contain a badge, all cards should include a card header -->
+            
+                <div class="card-header pt-3 px-4">
+                    
+
+
+                </div>
+            
+            <div class="card-body px-4 ">
+                
+                    <h3>
+                        Microsoft Teams
+                    </h3>
+                
+                
+                    <p> Reuniões, chat, colaboração em tempo real e armazenamento em nuvem compartilhado. </p>
+                
+            </div>
+            <div class="card-footer pt-3 px-4 pb-4">
+                
+
+
+<div class="link-group" data-automation-test-id="LinkGroupDiv-">
+
+
+    
+
+
+
+
+
+
+
+
+
+<a data-bi-cn="Veja o melhor plano" data-bi-ecn="Veja o melhor plano" data-bi-ct="button" data-bi-pa="body" class=" btn btn-primary   " data-target-uri="https://www.microsoft.com/pt-br/microsoft-teams/small-medium-business?icid=mscom_marcom_CPW1a_TeamsForBusiness" data-bi-bhvr="0" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-Teams-Commercial-Meeting?wid=515&amp;hei=293&amp;fit=crop" data-bi-mto data-automation-test-id="button1-" aria-label="Encontre o plano certo do Teams para a sua empresa." data-bi-ehn="Microsoft Teams" data-bi-hn="Microsoft Teams" data-bi-compnm="Content card vertical 4 up - depth" target="_self" href="https://www.microsoft.com/pt-br/microsoft-teams/small-medium-business?icid=mscom_marcom_CPW1a_TeamsForBusiness">
+    Veja o melhor plano</a>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+            </div>
+    </div>
+</div>
+
+
+
+
+
+
+<script type="text/javascript" src="/etc.clientlibs/microsoft/components/content/content-card-item/v3/content-card-item/clientlibs/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer></script><script type="text/javascript" src="/etc.clientlibs/microsoft/components/content/content-card-item/v1/content-card-item/clientlibs/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer></script>
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col 
+            mb-5 mb-lg-0
+            " clickgroup-telemetry-enabled>
+    <div class="card material-card h-100 " data-target-uri="https://www.microsoft.com/pt-br/microsoft-365/business/copilot-for-microsoft-365?icid=mscom_marcom_CPW2a_M365forBusiness_Copilot" data-bi-ecN="Saiba mais" data-bi-cT="Content Card" data-bi-pA="body" data-bi-ehN="Copilot para Microsoft 365" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Copilot-Commercial?wid=515&amp;hei=293&amp;fit=crop" data-bi-bhvr="0" data-bi-hN="Copilot para Microsoft 365" data-bi-compNm="Content card vertical 4 up - depth" data-bi-cN="Saiba mais">
+        
+            
+
+<picture>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Copilot-Commercial?wid=380&amp;hei=213&amp;fit=crop" media="(min-width: 1400px)"/>
+    <source srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Copilot-Commercial?wid=297&amp;hei=167&amp;fit=crop" media="(min-width: 1084px)"/>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Copilot-Commercial?wid=517&amp;hei=293&amp;fit=crop" media="(min-width: 860px)"/>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Copilot-Commercial?wid=406&amp;hei=230&amp;fit=crop" media="(min-width: 540px)"/>
+    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Copilot-Commercial?wid=406&hei=230&fit=crop" loading="lazy" class="card-img" alt/>
+</picture>
+
+
+
+            
+        
+            <!-- If any of the cards in a group contain a badge, all cards should include a card header -->
+            
+                <div class="card-header pt-3 px-4">
+                    
+<span class="badge  material-surface  " style="background-color: #ffb900">
+    Novo
+</span>
+
+                </div>
+            
+            <div class="card-body px-4 ">
+                
+                    <h3>
+                        Copilot para Microsoft 365
+                    </h3>
+                
+                
+                    <p> Com a IA no Microsoft 365 para empresas, você poupa tempo e se concentra no que realmente importa. </p>
+                
+            </div>
+            <div class="card-footer pt-3 px-4 pb-4">
+                
+
+
+<div class="link-group" data-automation-test-id="LinkGroupDiv-">
+
+
+    
+
+
+
+
+
+
+
+
+
+<a data-bi-cn="Saiba mais" data-bi-ecn="Saiba mais" data-bi-ct="button" data-bi-pa="body" class=" btn btn-primary   " data-target-uri="https://www.microsoft.com/pt-br/microsoft-365/business/copilot-for-microsoft-365?icid=mscom_marcom_CPW2a_M365forBusiness_Copilot" data-bi-bhvr="0" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Copilot-Commercial?wid=515&amp;hei=293&amp;fit=crop" data-bi-mto data-automation-test-id="button1-" aria-label="Saiba mais" data-bi-ehn="Copilot para Microsoft 365" data-bi-hn="Copilot para Microsoft 365" data-bi-compnm="Content card vertical 4 up - depth" target="_self" href="https://www.microsoft.com/pt-br/microsoft-365/business/copilot-for-microsoft-365?icid=mscom_marcom_CPW2a_M365forBusiness_Copilot">
+    Saiba mais</a>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+            </div>
+    </div>
+</div>
+
+
+
+
+
+
+<script type="text/javascript" src="/etc.clientlibs/microsoft/components/content/content-card-item/v3/content-card-item/clientlibs/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer></script><script type="text/javascript" src="/etc.clientlibs/microsoft/components/content/content-card-item/v1/content-card-item/clientlibs/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer></script>
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col 
+            
+            mb-5 mb-sm-0" clickgroup-telemetry-enabled>
+    <div class="card material-card h-100 " data-target-uri="https://www.microsoft.com/pt-br/windows/business?icid=mscom_marcom_CPW3a_Windows11forBusiness" data-bi-ecN="Saiba mais" data-bi-cT="Content Card" data-bi-pA="body" data-bi-ehN="Windows 11 para empresas" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Windows-11-Business?wid=515&amp;hei=293&amp;fit=crop" data-bi-bhvr="0" data-bi-hN="Windows 11 para empresas" data-bi-compNm="Content card vertical 4 up - depth" data-bi-cN="Saiba mais">
+        
+            
+
+<picture>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Windows-11-Business?wid=380&amp;hei=213&amp;fit=crop" media="(min-width: 1400px)"/>
+    <source srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Windows-11-Business?wid=297&amp;hei=167&amp;fit=crop" media="(min-width: 1084px)"/>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Windows-11-Business?wid=517&amp;hei=293&amp;fit=crop" media="(min-width: 860px)"/>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Windows-11-Business?wid=406&amp;hei=230&amp;fit=crop" media="(min-width: 540px)"/>
+    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Windows-11-Business?wid=406&hei=230&fit=crop" loading="lazy" class="card-img" alt="Um notebook com Windows 11."/>
+</picture>
+
+
+
+            
+        
+            <!-- If any of the cards in a group contain a badge, all cards should include a card header -->
+            
+                <div class="card-header pt-3 px-4">
+                    
+
+
+                </div>
+            
+            <div class="card-body px-4 ">
+                
+                    <h3>
+                        Windows 11 para empresas
+                    </h3>
+                
+                
+                    <p> Projetado para o trabalho híbrido. Eficiente para os funcionários. Consistente para a TI. Seguro para todos. </p>
+                
+            </div>
+            <div class="card-footer pt-3 px-4 pb-4">
+                
+
+
+<div class="link-group" data-automation-test-id="LinkGroupDiv-">
+
+
+    
+
+
+
+
+
+
+
+
+
+<a data-bi-cn="Saiba mais" data-bi-ecn="Saiba mais" data-bi-ct="button" data-bi-pa="body" class=" btn btn-primary   " data-target-uri="https://www.microsoft.com/pt-br/windows/business?icid=mscom_marcom_CPW3a_Windows11forBusiness" data-bi-bhvr="0" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Windows-11-Business?wid=515&amp;hei=293&amp;fit=crop" data-bi-mto data-automation-test-id="button1-" aria-label="Saiba mais sobre o Windows 11 para empresas" data-bi-ehn="Windows 11 para empresas" data-bi-hn="Windows 11 para empresas" data-bi-compnm="Content card vertical 4 up - depth" target="_self" href="https://www.microsoft.com/pt-br/windows/business?icid=mscom_marcom_CPW3a_Windows11forBusiness">
+    Saiba mais</a>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+            </div>
+    </div>
+</div>
+
+
+
+
+
+
+<script type="text/javascript" src="/etc.clientlibs/microsoft/components/content/content-card-item/v3/content-card-item/clientlibs/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer></script><script type="text/javascript" src="/etc.clientlibs/microsoft/components/content/content-card-item/v1/content-card-item/clientlibs/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer></script>
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col 
+            
+            " clickgroup-telemetry-enabled>
+    <div class="card material-card h-100 " data-target-uri="https://visualstudio.microsoft.com/downloads/?icid=mscom_marcom_CPW4a_VisualStudio22" data-bi-ecN="Baixe o Visual Studio 2022" data-bi-cT="Content Card" data-bi-pA="body" data-bi-ehN="Visual Studio 2022" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Visual-Studio-Icon?wid=515&amp;hei=293&amp;fit=crop" data-bi-bhvr="0" data-bi-hN="Visual Studio 2022" data-bi-compNm="Content card vertical 4 up - depth" data-bi-cN="Baixe o Visual Studio 2022">
+        
+            
+
+<picture>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Visual-Studio-Icon?wid=380&amp;hei=213&amp;fit=crop" media="(min-width: 1400px)"/>
+    <source srcset=" https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Visual-Studio-Icon?wid=297&amp;hei=167&amp;fit=crop" media="(min-width: 1084px)"/>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Visual-Studio-Icon?wid=517&amp;hei=293&amp;fit=crop" media="(min-width: 860px)"/>
+    <source srcset="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Visual-Studio-Icon?wid=406&amp;hei=230&amp;fit=crop" media="(min-width: 540px)"/>
+    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Visual-Studio-Icon?wid=406&hei=230&fit=crop" loading="lazy" class="card-img" alt="Ícone do Visual Studio."/>
+</picture>
+
+
+
+            
+        
+            <!-- If any of the cards in a group contain a badge, all cards should include a card header -->
+            
+                <div class="card-header pt-3 px-4">
+                    
+
+
+                </div>
+            
+            <div class="card-body px-4 ">
+                
+                    <h3>
+                        Visual Studio 2022
+                    </h3>
+                
+                
+                    <p> Tenha o IDE mais abrangente para desenvolvedores .NET e C++ no Windows para criar aplicativos, serviços e jogos para web, nuvem, desktop e dispositivos móveis. </p>
+                
+            </div>
+            <div class="card-footer pt-3 px-4 pb-4">
+                
+
+
+<div class="link-group" data-automation-test-id="LinkGroupDiv-">
+
+
+    
+
+
+
+
+
+
+
+
+
+<a data-bi-cn="Baixe o Visual Studio 2022" data-bi-ecn="Baixe o Visual Studio 2022" data-bi-ct="button" data-bi-pa="body" class=" btn btn-primary   " data-target-uri="https://visualstudio.microsoft.com/downloads/?icid=mscom_marcom_CPW4a_VisualStudio22" data-bi-bhvr="0" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Visual-Studio-Icon?wid=515&amp;hei=293&amp;fit=crop" data-bi-mto data-automation-test-id="button1-" aria-label="Baixe o Visual Studio 2022" data-bi-ehn="Visual Studio 2022" data-bi-hn="Visual Studio 2022" data-bi-compnm="Content card vertical 4 up - depth" target="_self" href="https://visualstudio.microsoft.com/downloads/?icid=mscom_marcom_CPW4a_VisualStudio22">
+    Baixe o Visual Studio 2022</a>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+            </div>
+    </div>
+</div>
+
+
+
+
+
+
+<script type="text/javascript" src="/etc.clientlibs/microsoft/components/content/content-card-item/v3/content-card-item/clientlibs/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer></script><script type="text/javascript" src="/etc.clientlibs/microsoft/components/content/content-card-item/v1/content-card-item/clientlibs/site.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.js" defer></script>
+
+
+
+
+
+
+    
+    
+
+</div>
+
+</section>
+
+
+
+</div>
+
+  
+</div>
+</div></div>
+
+
+</div>
+</div>
+<div class="responsivegrid mt-0 mb-0 aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+
+<div class="layout-container responsivegrid aem-GridColumn aem-GridColumn--default--12" data-component-id="51e927945f39700e952adb9bd3dc97e7">
+
+
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  grid-image-layout-container-uid74dc  heading-bg-color-layout-container-uid74dc" data-automation-test-id="layout-container-uid74dc">
+  <style data-automation-test-id="headingColor-layout-container-uid74dc">
+            .heading-bg-color-layout-container-uid74dc{
+                 background-color:  !important;
+            }
+  </style>
+
+<div class="container" id="layout-container-uid74dc" data-componentName="layout-container-uid74dc">
+  
+  
+  
+  
+</div>
+</div></div>
+
+
+</div>
+</div>
+<div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+
+
+
+</div>
+</div>
+<div class="responsivegrid mt-0 aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+
+<div class="layout-container responsivegrid aem-GridColumn aem-GridColumn--default--12" data-component-id="51e927945f39700e952adb9bd3dc97e7">
+
+
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  grid-image-layout-container-uide8d2  heading-bg-color-layout-container-uide8d2" data-automation-test-id="layout-container-uide8d2">
+  <style data-automation-test-id="headingColor-layout-container-uide8d2">
+            .heading-bg-color-layout-container-uide8d2{
+                 background-color:  !important;
+            }
+  </style>
+
+<div class="container" id="layout-container-uide8d2" data-componentName="layout-container-uide8d2">
+  
+  
+  <div class="socialfollow aem-GridColumn aem-GridColumn--default--12" data-component-id="f881184c0350e55b789024b15f22837e">
+
+
+
+
+
+
+<script src="/etc.clientlibs/microsoft/components/content/socialfollow/v1/socialfollow/clientlibs/site.min.ACSHASHec8aed9df755a7b27e52317dcf532df8.js"></script>
+
+
+
+
+
+
+<link rel="canonical" href="https://www.microsoft.com/pt-br"/>
+
+<section class="col-12" aria-label="siga-nos nas redes sociais" id="socialfollow-uid9eb8" data-componentName="socialfollow-uid9eb8">
+<h2 class="base font-weight-normal d-inline align-middle mr-g">
+    Siga Microsoft
+</h2>
+<ul class="list-inline d-inline-block align-middle mb-0">
+    <li class="list-inline-item mr-g socialfollow-li">
+        
+        <a class="d-inline-block action-trigger" href="https://www.facebook.com/MSFTBrasil" target="_blank" aria-label="Siga a Microsoft no Facebook, abre em uma nova guia" data-bi-ecn="Facebook" data-bi-bhvr="126" data-bi-cn="Facebook" data-bi-socchn="Facebook" data-bi-ct="Social Button" data-bi-pa="body" data-bi-compnm="Social Follow - horizontal">
+            
+                    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Facebook%202x?scl=1" data-src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Facebook 2x?scl=1" alt="Facebook" title="Facebook" width="32" height="32"/>					
+            
+            
+        </a>
+    </li>
+
+    <li class="list-inline-item mr-g socialfollow-li">
+        
+        <a class="d-inline-block action-trigger" href="https://twitter.com/microsoftbr" target="_blank" aria-label="Siga a Microsoft no X, abre em uma nova guia" data-bi-ecn="X" data-bi-bhvr="126" data-bi-cn="X" data-bi-socchn="X" data-bi-ct="Social Button" data-bi-pa="body" data-bi-compnm="Social Follow - horizontal">
+            
+                    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon-MSCOM-X-64x64?scl=1" data-src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon-MSCOM-X-64x64?scl=1" alt="X" title="X" width="32" height="32"/>					
+            
+            
+        </a>
+    </li>
+
+    <li class="list-inline-item mr-g socialfollow-li">
+        
+        <a class="d-inline-block action-trigger" href="https://www.youtube.com/user/MicrosoftBrasil" target="_blank" aria-label="Siga a Microsoft no YouTube, abre em uma nova guia" data-bi-ecn="Youtube" data-bi-bhvr="126" data-bi-cn="Youtube" data-bi-socchn="Youtube" data-bi-ct="Social Button" data-bi-pa="body" data-bi-compnm="Social Follow - horizontal">
+            
+                    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/YouTube%202x?scl=1" data-src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/YouTube 2x?scl=1" alt="Youtube" title="Youtube" width="32" height="32"/>					
+            
+            
+        </a>
+    </li>
+
+    <li class="list-inline-item mr-g socialfollow-li">
+        
+        <a class="d-inline-block action-trigger" href="https://www.instagram.com/microsoftbr/" target="_blank" aria-label="Siga a Microsoft no Instagram, abre em uma nova guia" data-bi-ecn="Instagram" data-bi-bhvr="126" data-bi-cn="Instagram" data-bi-socchn="Instagram" data-bi-ct="Social Button" data-bi-pa="body" data-bi-compnm="Social Follow - horizontal">
+            
+                    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Instagram%202x?scl=1" data-src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Instagram 2x?scl=1" alt="Instagram" title="Instagram" width="32" height="32"/>					
+            
+            
+        </a>
+    </li>
+</ul>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Microsoft",
+        "url": "https://www.microsoft.com/",
+        "sameAs":["https://www.facebook.com/MSFTBrasil","https://twitter.com/microsoftbr","https://www.youtube.com/user/MicrosoftBrasil","https://www.instagram.com/microsoftbr/"]
+    };
+</script>
+</section>
+
+
+
+
+</div>
+
+  
+</div>
+</div></div>
+
+
+</div>
+</div>
+<div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+
+
+
+</div>
+</div>
+<div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+
+<div class="layout-container responsivegrid aem-GridColumn aem-GridColumn--default--12" data-component-id="51e927945f39700e952adb9bd3dc97e7">
+
+
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  grid-image-layout-container-uid2018  heading-bg-color-layout-container-uid2018" data-automation-test-id="layout-container-uid2018">
+  <style data-automation-test-id="headingColor-layout-container-uid2018">
+            .heading-bg-color-layout-container-uid2018{
+                 background-color:  !important;
+            }
+  </style>
+
+<div class="container" id="layout-container-uid2018" data-componentName="layout-container-uid2018">
+  
+  
+  
+  
+</div>
+</div></div>
+
+
+</div>
+</div>
+<div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+
+<div class="back-to-top-button aem-GridColumn aem-GridColumn--default--12" data-component-id="66f104ac83c5ea29ffc13bb793e679c0">
+
+
+
+
+<link rel="stylesheet" href="/etc.clientlibs/microsoft/components/content/back-to-top-button/v1/back-to-top-button/clientlibs/sites.min.ACSHASHa722775809d2312f435036def15bcd62.css" type="text/css">
+
+
+
+
+
+
+<div class="fixed-back-to-top p-g d-flex justify-content-end " data-mount="fixed-back-to-top">
+<a href="#page-top" aria-label="Voltar ao início" class="btn bg-body btn-faint-secondary" data-bi-cn="Voltar ao início" data-bi-ecn="Voltar ao início" data-bi-bhvr="0" data-bi-ct="Button" data-bi-pa="Body" data-bi-compnm="Back to top">
+    <span class="glyph-prepend glyph-prepend-xsmall glyph-prepend-up">
+        
+            <span class="px-1"></span>
+        
+        Voltar ao início
+    </span>
+</a>
+</div>
+
+
+
+
+
+<script src="/etc.clientlibs/microsoft/components/content/back-to-top-button/v1/back-to-top-button/clientlibs/sites.min.ACSHASH48d949b834ed32dfd8266989e9dab912.js"></script>
+
+
+
+</div>
+
+
+</div>
+</div>
+
+
+</div>
+</main></div>
+
+
+</div>
+</div>
+<div class="universalfooter" data-component-id="873fa1f863becf63b38092282d4ea0b1">
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+        
+        
+    
+
+<!-- Start of ADDITIONAL DEBUG INFO ** cv.html **
+
+CVToken: CASMicrosoftCVee9c8be1.1
+End of ADDITIONAL DEBUG INFO -->
+
+        <!-- Start of ADDITIONAL DEBUG INFO ** uhftemplate.html **
+
+CVToken: CASMicrosoftCVee9c8be1.1
+End of ADDITIONAL DEBUG INFO -->
+            <div id="footerArea" class="uhf"  data-m='{"cN":"footerArea","cT":"Area_coreuiArea","id":"a2Body","sN":2,"aN":"Body"}'>
+        <div id="footerRegion"      data-region-key="footerregion" data-m='{"cN":"footerRegion","cT":"Region_coreui-region","id":"r1a2","sN":1,"aN":"a2"}' >
+
+<div  id="footerUniversalFooter" data-m='{"cN":"footerUniversalFooter","cT":"Module_coreui-universalfooter","id":"m1r1a2","sN":1,"aN":"r1a2"}'  data-module-id="Category|footerRegion|coreui-region|footerUniversalFooter|coreui-universalfooter">
+
+
+
+
+<footer id="uhf-footer" class="c-uhff context-uhf"  data-uhf-mscc-rq="false" data-footer-footprint="/mshomepage/mshomepagefooter, fromService: True" data-m='{"cN":"Uhf footer_cont","cT":"Container","id":"c1m1r1a2","sN":1,"aN":"m1r1a2"}'>
+<nav class="c-uhff-nav" aria-label="Links de Recursos do Rodap&#233;" data-m='{"cN":"Footer nav_cont","cT":"Container","id":"c1c1m1r1a2","sN":1,"aN":"c1m1r1a2"}'>
+    
+        <div class="c-uhff-nav-row">
+            <div class="c-uhff-nav-group" data-m='{"cN":"footerNavColumn1_cont","cT":"Container","id":"c1c1c1m1r1a2","sN":1,"aN":"c1c1m1r1a2"}'>
+                <div class="c-heading-4" role="heading" aria-level="2">Novidades
+</div>
+                <ul class="c-list f-bare">
+                    <li>
+                        <a aria-label="Microsoft Copilot Novidades
+" class="c-uhff-link" href="https://www.microsoft.com/pt-br/microsoft-copilot" data-m='{"cN":"Footer_WhatsNew_CopilotMicrosoft_nav","id":"n1c1c1c1m1r1a2","sN":1,"aN":"c1c1c1m1r1a2"}'>Microsoft Copilot</a>
+                    </li>
+                    <li>
+                        <a aria-label="Microsoft 365 Novidades
+" class="c-uhff-link" href="https://www.microsoft.com/pt-br/microsoft-365" data-m='{"cN":"Footer_WhatsNew_Microsoft365_nav","id":"n2c1c1c1m1r1a2","sN":2,"aN":"c1c1c1m1r1a2"}'>Microsoft 365</a>
+                    </li>
+                    <li>
+                        <a aria-label="Aplicativos do Windows 11 Novidades
+" class="c-uhff-link" href="https://www.microsoft.com/windows/windows-11-apps" data-m='{"cN":"Footer_WhatsNew_Windows_11_apps_nav","id":"n3c1c1c1m1r1a2","sN":3,"aN":"c1c1c1m1r1a2"}'>Aplicativos do Windows 11</a>
+                    </li>
+
+                </ul>
+                
+            </div>
+            <div class="c-uhff-nav-group" data-m='{"cN":"footerNavColumn2_cont","cT":"Container","id":"c2c1c1m1r1a2","sN":2,"aN":"c1c1m1r1a2"}'>
+                <div class="c-heading-4" role="heading" aria-level="2">Microsoft Store</div>
+                <ul class="c-list f-bare">
+                    <li>
+                        <a aria-label="Perfil da conta Microsoft Store" class="c-uhff-link" href="https://account.microsoft.com/" data-m='{"cN":"Footer_StoreandSupport_AccountProfile_nav","id":"n1c2c1c1m1r1a2","sN":1,"aN":"c2c1c1m1r1a2"}'>Perfil da conta</a>
+                    </li>
+                    <li>
+                        <a aria-label="Centro de Download Microsoft Store" class="c-uhff-link" href="https://www.microsoft.com/pt-br/download" data-m='{"cN":"Footer_StoreandSupport_DownloadCenter_nav","id":"n2c2c1c1m1r1a2","sN":2,"aN":"c2c1c1m1r1a2"}'>Centro de Download</a>
+                    </li>
+                    <li>
+                        <a aria-label="Suporte da Microsoft Store Microsoft Store" class="c-uhff-link" href="https://go.microsoft.com/fwlink/?linkid=2139749" data-m='{"cN":"Footer_StoreandSupport_SalesAndSupport_nav","id":"n3c2c1c1m1r1a2","sN":3,"aN":"c2c1c1m1r1a2"}'>Suporte da Microsoft Store</a>
+                    </li>
+                    <li>
+                        <a aria-label="Devolu&#231;&#245;es Microsoft Store" class="c-uhff-link" href="https://go.microsoft.com/fwlink/p/?LinkID=824764&amp;clcid=0x416" data-m='{"cN":"Footer_StoreandSupport_Returns_nav","id":"n4c2c1c1m1r1a2","sN":4,"aN":"c2c1c1m1r1a2"}'>Devolu&#231;&#245;es</a>
+                    </li>
+                    <li>
+                        <a aria-label="Acompanhamento de pedidos Microsoft Store" class="c-uhff-link" href="https://account.microsoft.com/orders" data-m='{"cN":"Footer_StoreandSupport_OrderTracking_nav","id":"n5c2c1c1m1r1a2","sN":5,"aN":"c2c1c1m1r1a2"}'>Acompanhamento de pedidos</a>
+                    </li>
+
+                </ul>
+                
+            </div>
+            <div class="c-uhff-nav-group" data-m='{"cN":"footerNavColumn3_cont","cT":"Container","id":"c3c1c1m1r1a2","sN":3,"aN":"c1c1m1r1a2"}'>
+                <div class="c-heading-4" role="heading" aria-level="2">Educa&#231;&#227;o</div>
+                <ul class="c-list f-bare">
+                    <li>
+                        <a aria-label="Microsoft Education Educa&#231;&#227;o" class="c-uhff-link" href="https://www.microsoft.com/pt-br/education" data-m='{"cN":"Footer_Education_MicrosoftInEducation_nav","id":"n1c3c1c1m1r1a2","sN":1,"aN":"c3c1c1m1r1a2"}'>Microsoft Education</a>
+                    </li>
+                    <li>
+                        <a aria-label="Dispositivos para educa&#231;&#227;o Educa&#231;&#227;o" class="c-uhff-link" href="https://www.microsoft.com/pt-br/education/devices/overview" data-m='{"cN":"Footer_Education_DevicesforEducation_nav","id":"n2c3c1c1m1r1a2","sN":2,"aN":"c3c1c1m1r1a2"}'>Dispositivos para educa&#231;&#227;o</a>
+                    </li>
+                    <li>
+                        <a aria-label="Microsoft Teams para Educa&#231;&#227;o Educa&#231;&#227;o" class="c-uhff-link" href="https://www.microsoft.com/pt-br/education/products/teams" data-m='{"cN":"Footer_Education_MicrosoftTeamsforEducation_nav","id":"n3c3c1c1m1r1a2","sN":3,"aN":"c3c1c1m1r1a2"}'>Microsoft Teams para Educa&#231;&#227;o</a>
+                    </li>
+                    <li>
+                        <a aria-label="Microsoft 365 Education Educa&#231;&#227;o" class="c-uhff-link" href="https://www.microsoft.com/pt-br/education/buy-license/microsoft365" data-m='{"cN":"Footer_Education_Microsoft365Education_nav","id":"n4c3c1c1m1r1a2","sN":4,"aN":"c3c1c1m1r1a2"}'>Microsoft 365 Education</a>
+                    </li>
+                    <li>
+                        <a aria-label="Office Education Educa&#231;&#227;o" class="c-uhff-link" href="https://www.microsoft.com/pt-br/education/products/office" data-m='{"cN":"Footer_Education_Office Education_nav","id":"n5c3c1c1m1r1a2","sN":5,"aN":"c3c1c1m1r1a2"}'>Office Education</a>
+                    </li>
+                    <li>
+                        <a aria-label="Treinamento e desenvolvimento de educadores Educa&#231;&#227;o" class="c-uhff-link" href="https://education.microsoft.com/" data-m='{"cN":"Footer_Education_EducatorTrainingDevelopment_nav","id":"n6c3c1c1m1r1a2","sN":6,"aN":"c3c1c1m1r1a2"}'>Treinamento e desenvolvimento de educadores</a>
+                    </li>
+                    <li>
+                        <a aria-label="Ofertas para estudantes e pais Educa&#231;&#227;o" class="c-uhff-link" href="https://www.microsoft.com/en-us/store/b/education" data-m='{"cN":"Footer_Education_DealsForStudentsandParents_nav","id":"n7c3c1c1m1r1a2","sN":7,"aN":"c3c1c1m1r1a2"}'>Ofertas para estudantes e pais</a>
+                    </li>
+                    <li>
+                        <a aria-label="Azure para estudantes Educa&#231;&#227;o" class="c-uhff-link" href="https://azure.microsoft.com/pt-br/free/students/" data-m='{"cN":"Footer_Education_Azureforstudents_nav","id":"n8c3c1c1m1r1a2","sN":8,"aN":"c3c1c1m1r1a2"}'>Azure para estudantes</a>
+                    </li>
+
+                </ul>
+                
+            </div>
+        </div>
+        <div class="c-uhff-nav-row">
+            <div class="c-uhff-nav-group" data-m='{"cN":"footerNavColumn4_cont","cT":"Container","id":"c4c1c1m1r1a2","sN":4,"aN":"c1c1m1r1a2"}'>
+                <div class="c-heading-4" role="heading" aria-level="2">Neg&#243;cios
+</div>
+                <ul class="c-list f-bare">
+                    <li>
+                        <a aria-label="Microsoft Cloud Neg&#243;cios
+" class="c-uhff-link" href="https://www.microsoft.com/pt-br/microsoft-cloud" data-m='{"cN":"Footer_Business_Microsoft_Cloud_nav","id":"n1c4c1c1m1r1a2","sN":1,"aN":"c4c1c1m1r1a2"}'>Microsoft Cloud</a>
+                    </li>
+                    <li>
+                        <a aria-label="Seguran&#231;a da Microsoft Neg&#243;cios
+" class="c-uhff-link" href="https://www.microsoft.com/pt-br/security" data-m='{"cN":"Footer_Business_Microsoft Security_nav","id":"n2c4c1c1m1r1a2","sN":2,"aN":"c4c1c1m1r1a2"}'>Seguran&#231;a da Microsoft</a>
+                    </li>
+                    <li>
+                        <a aria-label="Azure Neg&#243;cios
+" class="c-uhff-link" href="https://azure.microsoft.com/pt-br/" data-m='{"cN":"Footer_DeveloperAndIT_MicrosoftAzure_nav","id":"n3c4c1c1m1r1a2","sN":3,"aN":"c4c1c1m1r1a2"}'>Azure</a>
+                    </li>
+                    <li>
+                        <a aria-label="Dynamics 365 Neg&#243;cios
+" class="c-uhff-link" href="https://www.microsoft.com/pt-br/dynamics-365" data-m='{"cN":"Footer_Business_MicrosoftDynamics365_nav","id":"n4c4c1c1m1r1a2","sN":4,"aN":"c4c1c1m1r1a2"}'>Dynamics 365</a>
+                    </li>
+                    <li>
+                        <a aria-label="Microsoft 365 Neg&#243;cios
+" class="c-uhff-link" href="https://www.microsoft.com/pt-br/microsoft-365/business" data-m='{"cN":"Footer_Business_M365_nav","id":"n5c4c1c1m1r1a2","sN":5,"aN":"c4c1c1m1r1a2"}'>Microsoft 365</a>
+                    </li>
+                    <li>
+                        <a aria-label="Microsoft Advertising Neg&#243;cios
+" class="c-uhff-link" href="https://about.ads.microsoft.com/pt-br" data-m='{"cN":"Footer_MicrosoftAdvertising_nav","id":"n6c4c1c1m1r1a2","sN":6,"aN":"c4c1c1m1r1a2"}'>Microsoft Advertising</a>
+                    </li>
+                    <li>
+                        <a aria-label="Copilot for Microsoft 365 Neg&#243;cios
+" class="c-uhff-link" href="https://www.microsoft.com/pt-br/microsoft-365/business/copilot-for-microsoft-365" data-m='{"cN":"Footer_CopilotMicrosoft365_nav","id":"n7c4c1c1m1r1a2","sN":7,"aN":"c4c1c1m1r1a2"}'>Copilot for Microsoft 365</a>
+                    </li>
+                    <li>
+                        <a aria-label="Microsoft Teams Neg&#243;cios
+" class="c-uhff-link" href="https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software" data-m='{"cN":"Footer_Business_Microsoft365_nav","id":"n8c4c1c1m1r1a2","sN":8,"aN":"c4c1c1m1r1a2"}'>Microsoft Teams</a>
+                    </li>
+
+                </ul>
+                
+            </div>
+            <div class="c-uhff-nav-group" data-m='{"cN":"footerNavColumn5_cont","cT":"Container","id":"c5c1c1m1r1a2","sN":5,"aN":"c1c1m1r1a2"}'>
+                <div class="c-heading-4" role="heading" aria-level="2">Desenvolvedor e TI
+</div>
+                <ul class="c-list f-bare">
+                    <li>
+                        <a aria-label="Centro do desenvolvedor Desenvolvedor e TI
+" class="c-uhff-link" href="https://developer.microsoft.com/pt-br/" data-m='{"cN":"Footer_DeveloperAndIT_DeveloperCenter_nav","id":"n1c5c1c1m1r1a2","sN":1,"aN":"c5c1c1m1r1a2"}'>Centro do desenvolvedor</a>
+                    </li>
+                    <li>
+                        <a aria-label="Documenta&#231;&#227;o Desenvolvedor e TI
+" class="c-uhff-link" href="https://learn.microsoft.com/docs/" data-m='{"cN":"Footer_DeveloperAndIT_Documentation_nav","id":"n2c5c1c1m1r1a2","sN":2,"aN":"c5c1c1m1r1a2"}'>Documenta&#231;&#227;o</a>
+                    </li>
+                    <li>
+                        <a aria-label="Microsoft Learn Desenvolvedor e TI
+" class="c-uhff-link" href="https://learn.microsoft.com/" data-m='{"cN":"Footer_DeveloperAndIT_MicrosoftLearn_nav","id":"n3c5c1c1m1r1a2","sN":3,"aN":"c5c1c1m1r1a2"}'>Microsoft Learn</a>
+                    </li>
+                    <li>
+                        <a aria-label="Comunidade Microsoft Tech Desenvolvedor e TI
+" class="c-uhff-link" href="https://techcommunity.microsoft.com/" data-m='{"cN":"Footer_DeveloperAndIT_MicrosoftTechCommunity_nav","id":"n4c5c1c1m1r1a2","sN":4,"aN":"c5c1c1m1r1a2"}'>Comunidade Microsoft Tech</a>
+                    </li>
+                    <li>
+                        <a aria-label="Azure Marketplace Desenvolvedor e TI
+" class="c-uhff-link" href="https://azuremarketplace.microsoft.com/pt-br/" data-m='{"cN":"Footer_DeveloperAndIT_AzureMarketplace_nav","id":"n5c5c1c1m1r1a2","sN":5,"aN":"c5c1c1m1r1a2"}'>Azure Marketplace</a>
+                    </li>
+                    <li>
+                        <a aria-label="AppSource Desenvolvedor e TI
+" class="c-uhff-link" href="https://appsource.microsoft.com/pt-br/" data-m='{"cN":"Footer_DeveloperAndIT_AppSource_nav","id":"n6c5c1c1m1r1a2","sN":6,"aN":"c5c1c1m1r1a2"}'>AppSource</a>
+                    </li>
+                    <li>
+                        <a aria-label="Microsoft Power Platform Desenvolvedor e TI
+" class="c-uhff-link" href="https://www.microsoft.com/pt-br/power-platform" data-m='{"cN":"Footer_DeveloperAndIT_Power Platform_nav","id":"n7c5c1c1m1r1a2","sN":7,"aN":"c5c1c1m1r1a2"}'>Microsoft Power Platform</a>
+                    </li>
+                    <li>
+                        <a aria-label="Visual Studio Desenvolvedor e TI
+" class="c-uhff-link" href="https://visualstudio.microsoft.com/" data-m='{"cN":"Footer_DeveloperAndIT_MicrosoftVisualStudio_nav","id":"n8c5c1c1m1r1a2","sN":8,"aN":"c5c1c1m1r1a2"}'>Visual Studio</a>
+                    </li>
+
+                </ul>
+                
+            </div>
+            <div class="c-uhff-nav-group" data-m='{"cN":"footerNavColumn6_cont","cT":"Container","id":"c6c1c1m1r1a2","sN":6,"aN":"c1c1m1r1a2"}'>
+                <div class="c-heading-4" role="heading" aria-level="2">Empresa
+</div>
+                <ul class="c-list f-bare">
+                    <li>
+                        <a aria-label="Carreiras Empresa
+" class="c-uhff-link" href="https://careers.microsoft.com/" data-m='{"cN":"Footer_Company_Careers_nav","id":"n1c6c1c1m1r1a2","sN":1,"aN":"c6c1c1m1r1a2"}'>Carreiras</a>
+                    </li>
+                    <li>
+                        <a aria-label="Sobre a Microsoft Empresa
+" class="c-uhff-link" href="https://www.microsoft.com/pt-br/about" data-m='{"cN":"Footer_Company_AboutMicrosoft_nav","id":"n2c6c1c1m1r1a2","sN":2,"aN":"c6c1c1m1r1a2"}'>Sobre a Microsoft</a>
+                    </li>
+                    <li>
+                        <a aria-label="Not&#237;cias da empresa Empresa
+" class="c-uhff-link" href="https://news.microsoft.com/pt-br" data-m='{"cN":"Footer_Company_CompanyNews_nav","id":"n3c6c1c1m1r1a2","sN":3,"aN":"c6c1c1m1r1a2"}'>Not&#237;cias da empresa</a>
+                    </li>
+                    <li>
+                        <a aria-label="Privacidade na Microsoft Empresa
+" class="c-uhff-link" href="https://privacy.microsoft.com/pt-br" data-m='{"cN":"Footer_Company_PrivacyAtMicrosoft_nav","id":"n4c6c1c1m1r1a2","sN":4,"aN":"c6c1c1m1r1a2"}'>Privacidade na Microsoft</a>
+                    </li>
+                    <li>
+                        <a aria-label="Investidores Empresa
+" class="c-uhff-link" href="https://www.microsoft.com/investor/default.aspx" data-m='{"cN":"Footer_Company_Investors_nav","id":"n5c6c1c1m1r1a2","sN":5,"aN":"c6c1c1m1r1a2"}'>Investidores</a>
+                    </li>
+                    <li>
+                        <a aria-label="Diversidade e inclus&#227;o Empresa
+" class="c-uhff-link" href="https://www.microsoft.com/en-us/diversity/" data-m='{"cN":"Footer_Company_DiversityAndInclusion_nav","id":"n6c6c1c1m1r1a2","sN":6,"aN":"c6c1c1m1r1a2"}'>Diversidade e inclus&#227;o</a>
+                    </li>
+                    <li>
+                        <a aria-label="Acessibilidade Empresa
+" class="c-uhff-link" href="https://www.microsoft.com/pt-br/accessibility" data-m='{"cN":"Footer_Company_Accessibility_nav","id":"n7c6c1c1m1r1a2","sN":7,"aN":"c6c1c1m1r1a2"}'>Acessibilidade</a>
+                    </li>
+                    <li>
+                        <a aria-label="Sustentabilidade  Empresa
+" class="c-uhff-link" href="https://www.microsoft.com/pt-br/sustainability/" data-m='{"cN":"Footer_Company_Sustainability_nav","id":"n8c6c1c1m1r1a2","sN":8,"aN":"c6c1c1m1r1a2"}'>Sustentabilidade </a>
+                    </li>
+
+                </ul>
+                
+            </div>
+        </div>
+</nav>
+<div class="c-uhff-base">
+        <a id="locale-picker-link" aria-label="Seletor de Idioma de Conte&#250;do. Definido como Portugu&#234;s (Brasil)" class="c-uhff-link c-uhff-lang-selector c-glyph glyph-world" href="https://www.microsoft.com/pt-br/locale" data-m='{"cN":"locale_picker(BR)_nav","id":"n7c1c1m1r1a2","sN":7,"aN":"c1c1m1r1a2"}'>Portugu&#234;s (Brasil)</a>
+
+    <a data-m='{"id":"n8c1c1m1r1a2","sN":8,"aN":"c1c1m1r1a2"}' href="https://aka.ms/yourcaliforniaprivacychoices" class='c-uhff-link c-uhff-ccpa'>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 14" xml:space="preserve" height="16" width="43">
+    <title>&#205;cone de recusa de op&#231;&#245;es de privacidade</title>
+    <path d="M7.4 12.8h6.8l3.1-11.6H7.4C4.2 1.2 1.6 3.8 1.6 7s2.6 5.8 5.8 5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#fff"/>
+    <path d="M22.6 0H7.4c-3.9 0-7 3.1-7 7s3.1 7 7 7h15.2c3.9 0 7-3.1 7-7s-3.2-7-7-7zm-21 7c0-3.2 2.6-5.8 5.8-5.8h9.9l-3.1 11.6H7.4c-3.2 0-5.8-2.6-5.8-5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#06f"/>
+    <path d="M24.6 4c.2.2.2.6 0 .8L22.5 7l2.2 2.2c.2.2.2.6 0 .8-.2.2-.6.2-.8 0l-2.2-2.2-2.2 2.2c-.2.2-.6.2-.8 0-.2-.2-.2-.6 0-.8L20.8 7l-2.2-2.2c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0l2.2 2.2L23.8 4c.2-.2.6-.2.8 0z" style="fill:#fff"/>
+    <path d="M12.7 4.1c.2.2.3.6.1.8L8.6 9.8c-.1.1-.2.2-.3.2-.2.1-.5.1-.7-.1L5.4 7.7c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0L8 8.6l3.8-4.5c.2-.2.6-.2.9 0z" style="fill:#06f"/>
+</svg>
+<span>Suas op&#231;&#245;es de privacidade</span>
+</a>
+
+<noscript>
+        <a data-m='{"id":"n9c1c1m1r1a2","sN":9,"aN":"c1c1m1r1a2"}' href="https://aka.ms/yourcaliforniaprivacychoices" class='c-uhff-link c-uhff-ccpa'>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 14" xml:space="preserve" height="16" width="43">
+    <title>&#205;cone de recusa de op&#231;&#245;es de privacidade</title>
+    <path d="M7.4 12.8h6.8l3.1-11.6H7.4C4.2 1.2 1.6 3.8 1.6 7s2.6 5.8 5.8 5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#fff"/>
+    <path d="M22.6 0H7.4c-3.9 0-7 3.1-7 7s3.1 7 7 7h15.2c3.9 0 7-3.1 7-7s-3.2-7-7-7zm-21 7c0-3.2 2.6-5.8 5.8-5.8h9.9l-3.1 11.6H7.4c-3.2 0-5.8-2.6-5.8-5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#06f"/>
+    <path d="M24.6 4c.2.2.2.6 0 .8L22.5 7l2.2 2.2c.2.2.2.6 0 .8-.2.2-.6.2-.8 0l-2.2-2.2-2.2 2.2c-.2.2-.6.2-.8 0-.2-.2-.2-.6 0-.8L20.8 7l-2.2-2.2c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0l2.2 2.2L23.8 4c.2-.2.6-.2.8 0z" style="fill:#fff"/>
+    <path d="M12.7 4.1c.2.2.3.6.1.8L8.6 9.8c-.1.1-.2.2-.3.2-.2.1-.5.1-.7-.1L5.4 7.7c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0L8 8.6l3.8-4.5c.2-.2.6-.2.9 0z" style="fill:#06f"/>
+</svg>
+<span>Suas op&#231;&#245;es de privacidade</span>
+</a>
+
+</noscript>
+    <a data-m='{"id":"n10c1c1m1r1a2","sN":10,"aN":"c1c1m1r1a2"}' href="https://go.microsoft.com/fwlink/?linkid=2259814" class="c-uhff-link c-uhff-consumer">
+<span>Privacidade dos Dados de Sa&#250;de do Consumidor</span>
+</a>
+
+<nav aria-label="Links corporativos da Microsoft">
+    <ul class="c-list f-bare" data-m='{"cN":"Corp links_cont","cT":"Container","id":"c11c1c1m1r1a2","sN":11,"aN":"c1c1m1r1a2"}'>
+                        <li  id="c-uhff-footer_contactus">
+            <a class="c-uhff-link" href="https://support.microsoft.com/contactus" data-mscc-ic="false" data-m='{"cN":"Footer_ContactUs_nav","id":"n1c11c1c1m1r1a2","sN":1,"aN":"c11c1c1m1r1a2"}'>Entre em contato com a Microsoft</a>
+        </li>
+        <li  id="c-uhff-footer_privacyandcookies">
+            <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?LinkId=521839" data-mscc-ic="false" data-m='{"cN":"Footer_PrivacyandCookies_nav","id":"n2c11c1c1m1r1a2","sN":2,"aN":"c11c1c1m1r1a2"}'>Privacidade</a>
+        </li>
+        <li class=" x-hidden" id="c-uhff-footer_managecookies">
+            <a class="c-uhff-link" href="#" data-mscc-ic="false" data-m='{"cN":"Footer_ManageCookies_nav","id":"n3c11c1c1m1r1a2","sN":3,"aN":"c11c1c1m1r1a2"}'>Gerenciar cookies</a>
+        </li>
+        <li  id="c-uhff-footer_compliance">
+            <a class="c-uhff-link" href="https://www.microsoft.com/pt-br/legal/compliance" data-mscc-ic="false" data-m='{"cN":"Footer_Compliance_nav","id":"n4c11c1c1m1r1a2","sN":4,"aN":"c11c1c1m1r1a2"}'>&#201;tica e Compliance</a>
+        </li>
+        <li  id="c-uhff-footer_termsofuse">
+            <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?LinkID=206977" data-mscc-ic="false" data-m='{"cN":"Footer_TermsOfUse_nav","id":"n5c11c1c1m1r1a2","sN":5,"aN":"c11c1c1m1r1a2"}'>Nota Legal </a>
+        </li>
+        <li  id="c-uhff-footer_trademarks">
+            <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?linkid=2196228" data-mscc-ic="false" data-m='{"cN":"Footer_Trademarks_nav","id":"n6c11c1c1m1r1a2","sN":6,"aN":"c11c1c1m1r1a2"}'>Marcas</a>
+        </li>
+        <li  id="c-uhff-footer_aboutourads">
+            <a class="c-uhff-link" href="https://choice.microsoft.com" data-mscc-ic="false" data-m='{"cN":"Footer_AboutourAds_nav","id":"n7c11c1c1m1r1a2","sN":7,"aN":"c11c1c1m1r1a2"}'>Sobre os nossos an&#250;ncios</a>
+        </li>
+
+        <li>&#169; Microsoft 2024</li>
+        
+    </ul>
+</nav>
+</div>
+
+</footer>
+
+<script id="uhf-footer-ccpa">
+const globalPrivacyControlEnabled = navigator.globalPrivacyControl;
+
+const GPC_DataSharingOptIn = (globalPrivacyControlEnabled) ? false : checkThirdPartyAdsOptOutCookie();
+
+function checkThirdPartyAdsOptOutCookie() {
+try {
+    const ThirdPartyAdsOptOutCookieName = '3PAdsOptOut';
+    var cookieValue = getCookie(ThirdPartyAdsOptOutCookieName);
+    return cookieValue != 1;
+} catch {
+    return true;
 }
+}
+
+function getCookie(cookieName) {
+var cookieValue = document.cookie.match('(^|;)\\s*' + cookieName + '\\s*=\\s*([^;]+)');
+return (cookieValue) ? cookieValue[2] : '';
+}
+</script>
+
+
+
+
+
+
+</div>
+</div>
+
+</div>
+<script src="https://www.microsoft.com/onerfstatics/marketingsites-eus-prod/shell/_scrf/js/themes=default/54-af9f9f/d4-fb1f57/e1-a50eee/e7-954872/d8-97d509/f0-251fe2/46-be1318/77-04a268/11-240c7b/63-077520/a4-34de62/f9-a5b2ce/db-bc0148/dc-7e9864/6d-c07ea1/6f-dafe8c/f6-aa5278/73-a24d00/6d-1e7ed0/b7-cadaa7/c4-898cf2/ca-40b7b0/4e-ee3a55/3e-f5c39b/c3-6454d7/f9-7592d3/d0-e64f3e/92-10345d/79-499886/7e-cda2d3/58-ab4971/ca-108466/e0-3c9860/de-884374/1f-100dea/33-abe4df/2b-8e0ae6?ver=2.0&_cf=02242021_3231&iife=1"></script><script src="https://mem.gfx.ms/meversion?partner=mshomepage&market=pt-br&uhf=1" defer></script>
+    
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<script src="/etc.clientlibs/microsoft/clientlibs/clientlib-mwf-new/main-light.min.ACSHASH9d7d4837ca0f716d17814e2733b0f9eb.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="/etc.clientlibs/microsoft/clientlibs/clientlib-httpclient.min.ACSHASHd832bcc4fe42747220f5014dbf708394.js"></script>
+
+
+
+
+
+
+
+
+<script src="/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-cookieconsent.min.ACSHASH96f0c5b1219e39b8788028f5c17a5ad9.js"></script>
+
+
+
+<!-- Changes for Global Pixel -->
+
+
+    <script type="text/javascript">
+        (function(){
+            var partnerScripts =
+                {
+                    "meta": {
+                            "partnerJsHash": "ACSHASH00f6c26de9c7c0a1e7b10d8bb358e008"
+                            }
+                };
+                window.partnerScripts = partnerScripts;
+        })();
+    </script>
+    <script id="mediapixel">
+        //<![CDATA[
+            //_pageBITags=jsonElement;
+        //]]>
+    </script>
+
+
+
+    <script type="text/javascript" id="contentsquare">
+        (function(){
+            var contentSq =
+                {
+                    "entryFile": "https://cdnssl.clicktale.net/www32/ptc/05d32363-d534-4d93-9b65-cde674775e71.js",
+                };
+            if (typeof window["partnerScripts"]==="undefined"){
+                window["partnerScripts"]={};
+            }
+            window["partnerScripts"]["contentSquare"] = contentSq;
+        })();
+    </script>
+
+
+    <!--Enable 3rd Party script integration based on the configuration settings-->
+    
+
+<script src="/etc.clientlibs/microsoft/components/structure/page/clientlibs/embed-thirdparty.min.ACSHASH2cab542e06c6ff4b5b3ebd343cceb9e7.js"></script>
+
+
+
+
+<!-- End of changes for Global Pixel -->
+
+
+
+
+
+<script src="/etc.clientlibs/microsoft/components/structure/page/clientlibs/featurecontrol.min.ACSHASHc22ea5b46f3fcad90da0abcc0a3f73d4.js"></script>
+
+
+
+
+
+<!-- Feature Control Service:List of all Enabled Features -->
+<div id='customFeatureControl' enabledFeatures="contentbackfillgenerate,esiproductcards,feature-controlled-mwf,uhf-ms-io-endpoint,uhf-esi-cv,uhf-esi-cache,fraud-greenid,contentsquare,mediapixel,holiday-themer,lazyload-static-components,clientlibDefer,upsellEnabled,contentbackfillpkgdelete,healthcheck,demo-feature,contentbackfillhttpgenerate,perf-tracker-1ds,dynamic-bundle,cvIncrementer,tentingEnabled,chatCookiesImplemented,alertCountDownWithoutServerTime,pdpDynamicRendering,bundlesDynamicRendering,contentbackfillmetadatachangesvideo,contentbackfillmetadatachangesnonvideo,listDynamicRendering,experimentation-without-personalization,generic-list-importer,combinedUHF,cvCallEnabled,m365ProductCatalog,support-unsupported-locales,deferClickTale,videoLazyLoad,prefetchFontsEnabled,enable-code-isolation,imageLinkTag,fetchPriority,contentIngestionAgent,enableClickgroupTelemetry,imageLazyLoad,contentIngestionAgent-dispatcher2westus2Agent,isCacheControlFeatureEnabled,feature-controlled-content-card,lcpPrioritizationPhase1,ocReimagineTelemetry,deferScriptsEnabled,lcpPrioritizationPhase2,ocReimagineSlotNumberTelemetry,contentIngestionAgent-dispatcher1westus2Agent,ocReimagineComponentNameTelemetry,ocReimagineTemplateNameTelemetry,ptePhase1,extended-html-minification-sites,dynamicPrice,gl-auto-config,displayV35Toggle,chatCustomEndpoint,enableBoostPersonalization"></div>
+
+
+
+
+<div class='oneds-config' data-instrumentationkey='aacbcf0ee7614738b1ea4f99c23f2e82-63b77ecc-8c62-4513-aa1f-a12a5ed8c015-6865' data-isenabled='true' data-env='prod' data-market='pt-br' data-pageName='HomePage' data-urlCollectQuery='true' data-urlCollectHash='false' data-autoCapturelineage='false' data-autoCaptureresize='false' data-autoCapturescroll='false' data-initialize1DSEventName="none" data-tenantName='mscom' data-tenantTitle='Mscom' data-tenantDomain='microsoft' data-tenantSiteName='microsoft' data-tenantNameProperty='tenantName' data-tenantTitleProperty='tenantTitle' data-tenantDomainProperty='tenantDomain' data-tenantSiteNameProperty='tenantSiteName' data-max1DSInitializeDelayInSeconds='1'>
+</div>
+
+
+
+
+<script src="/etc.clientlibs/microsoft/components/structure/page/clientlibs/custom-oneds.min.ACSHASHb4f0b5100b03a879dd5d2e97636efc37.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Enable script to inject Green ID iFrame-->
+
+    
+
+<script type="text/javascript" src="/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-greenid.min.ACSHASH383b23d12df0d9265d7569a7102c2f96.js" async></script>
+
+
+
+
+
+
+
+
+
+<!-- Start of ADDITIONAL DEBUG INFO
+MS_COMMIT_ID: 2d855d6
+MS-CV: CASMicrosoftCVee9c8be1.0
+MS-CV-ESI: CASMicrosoftCVee9c8be1.0
+End of ADDITIONAL DEBUG INFO -->
+</body>
+</html>
